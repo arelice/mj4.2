@@ -78,7 +78,7 @@ const chatId= computed(()=>chatStore.active??'1002' );
                     {{$t('mjtab.drawinfo')}}
                 </n-tooltip>
             </a>
-           <a :href="`https://api.raojialong.space/login`" class="flex items-center justify-center flex-col">
+           <a :href="`https://api.raojialong.space/topup`" class="flex items-center justify-center flex-col">
       <SvgIcon icon="whh:spiderman" class="text-3xl"></SvgIcon>
       <div class="text-[13px]">控制台</div>
     </a>
