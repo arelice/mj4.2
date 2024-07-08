@@ -42,7 +42,7 @@ watch(()=>homeStore.myData.act, (n:string)=>{
         <SvgIcon icon="ri:apps-fill" class="text-3xl"></SvgIcon>
         <div class="text-[13px]">GPTs</div>
       </div>
-      <a :href="`https://api2.raojialong.space/login`" class="flex items-center justify-center flex-col">
+      <a :href="`https://api.raojialong.space/topup`" class="flex items-center justify-center flex-col">
       <SvgIcon icon="whh:spiderman" class="text-3xl"></SvgIcon>
       <div class="text-[13px]">控制台</div>
     </a>
