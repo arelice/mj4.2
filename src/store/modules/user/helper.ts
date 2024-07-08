@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://logo.raojialong.space/logo88.png',
       name:  t('RJLAPI'),//'AI绘图',
-      description: '解锁全部功能 <a href="https://api.raojialong.space" class="text-blue-500" target="_blank" >购买地址</a>',
+      description: ' <a href="https://api.raojialong.space/topup" class="text-blue-500" target="_blank" >充值/余额</a>',
     },
   }
 }
