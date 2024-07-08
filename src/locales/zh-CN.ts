@@ -265,9 +265,9 @@ export default {
     ,mCanel:'取消'
     ,mSent:'发送'
 
-    ,findVersion:'发现更新版本'
+    ,findVersion:'RJLAPI'
     ,yesLastVersion:'已是最新版本'
-    ,infoStar:'RJLAPI <a  class="text-blue-600 dark:text-blue-500" href="https://api.raojialong.space" target="_blank"> RJLAPI </a>，便宜且稳定的chatgpt的api服务 </p><p>已经稳定运行1年多'
+    ,infoStar:' <a  class="text-blue-600 dark:text-blue-500" href="https://api.raojialong.space" target="_blank"> RJLAPI </a>，便宜且稳定的chatgpt的api服务 </p><p>已经稳定运行1年多'
     ,setBtSaveChat:'仅保存会话'
     ,setBtSaveSys: '保存至系统'
 
