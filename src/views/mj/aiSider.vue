@@ -123,7 +123,8 @@ const chatId= computed(()=>chatStore.active??'1002' );
                     {{ $t('video.menuinfo') }}
                 </n-tooltip>                
             </a>
-
+          
+             
              
 
         </div>
